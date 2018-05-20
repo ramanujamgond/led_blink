@@ -1,5 +1,7 @@
-#include<reg51.h>
-sbit led=P2^0;
+#LED BLINK PROGRAM FOR PORT2
+
+#include<reg51.h>               //reg file for AT89C51
+sbit led=P2^0;                  
 
 void delay(unsigned int );
 void main()
