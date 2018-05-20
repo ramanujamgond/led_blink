@@ -1,0 +1,3 @@
+".\Objects\c_file.obj" 
+TO ".\Objects\prog" 
+PRINT(".\Listings\prog.m51") CODE( 0X0000-0X0FFF )
